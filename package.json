@@ -24,12 +24,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jiangxuhong/agent-exporter.git"
+    "url": "https://github.com/jxh0229/agent-exporter.git"
   },
   "bugs": {
-    "url": "https://github.com/jiangxuhong/agent-exporter/issues"
+    "url": "https://github.com/jxh0229/agent-exporter/issues"
   },
-  "homepage": "https://github.com/jiangxuhong/agent-exporter#readme",
+  "homepage": "https://github.com/jxh0229/agent-exporter#readme",
   "dependencies": {
     "commander": "^12.0.0",
     "chalk": "^5.3.0",
